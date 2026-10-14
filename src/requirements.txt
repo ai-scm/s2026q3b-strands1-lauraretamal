@@ -1,0 +1,4 @@
+strands-agents
+strands-agents-tools
+pillow==11.3.0
+boto3>=1.43.2
