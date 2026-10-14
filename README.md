@@ -1,4 +1,3 @@
-```markdown
 # Agente de viajes con IA para Seattle
 
 Proyecto desarrollado como parte del laboratorio de AWS Skill Builder **Create Advanced AI Agents with Strands SDK and Amazon Bedrock (BETA)**. Utiliza inteligencia artificial generativa para crear un agente de viajes capaz de responder preguntas y ayudar a planificar actividades turísticas en Seattle, Washington.
