@@ -39,8 +39,8 @@ Antes de utilizar el proyecto, necesitas:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone <https://github.com/ai-scm/s2026q3b-strands1-lauraretamal>
+cd <s2026q3b-strands1-lauraretamal>
 ```
 
 ### 2. Verificar las credenciales de AWS
